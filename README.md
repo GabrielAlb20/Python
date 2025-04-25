@@ -1,6 +1,6 @@
 # 🐍 Repositório de Estudos de Python
 
-Este repositório foi criado com o objetivo de documentar e compartilhar meus estudos em Python. Aqui você encontrará anotações, exercícios, projetos e recursos úteis que venho utilizando ao longo da minha jornada de aprendizado.
+Este repositório foi criado com o objetivo de documentar e compartilhar meus estudos em Python. Aqui você encontrará anotações, exercícios, projetos e recursos úteis que venho utilizando ao longo da minha jornada de aprendizado. ()
 
 OBS: Ainda falta organizar e adicionar novos arquivos, estou separando e organizando pra deixar tudo organizado, e ter todos os módulos concluídos
 
